@@ -1,6 +1,7 @@
 
+
 <div align="center">  
-## 👨‍💻👩‍💻Interest Fusion
+👨‍💻Interest Fusion👩‍💻
   
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
   [![Issues](https://img.shields.io/github/issues/KGupta2601/HackThisFall_InterestFusion)](https://github.com/KGupta2601/HackThisFall_InterestFusion/issues)
@@ -14,7 +15,7 @@
 
 ## 🌟 Overview
 
-Interest Fusion is an innovative platform tackling mental health challenges in educational institutions by creating meaningful connections through shared interests. We're revolutionizing how students connect, making social interactions more natural and anxiety-free.
+Interest Fusion is a cutting-edge platform designed to address mental health challenges within educational institutions. By fostering meaningful connections through shared interests, we are redefining the way students interact, promoting natural and anxiety-free social engagements.
 
 <details>
 <summary>💡 Why Interest Fusion?</summary>
@@ -143,9 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  Made with ❤️ by the Interest Fusion Team
-</div>
+
 ```
 
 **CONTRIBUTING.md:**
@@ -294,4 +293,6 @@ Contributors get:
 - Invitation to contributor-only events
 
 ---
-  
+<div align="center">
+  Made with ❤️ by the Interest Fusion Team
+</div>
